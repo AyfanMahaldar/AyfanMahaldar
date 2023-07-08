@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AyfanMahaldar
+- 👀 I’m interested in Webdevelopment.
+- 🌱 I’m currently learning javascript for front-end Webdevelopment.
+- 💞️ I’m looking to collaborate on Webdevelopment projects and internships on Webdevelopment.
+- 📫 How to reach me:-
+- gmail: en21116823@git-india.edu.in
